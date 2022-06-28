@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="title">Save Data</string>
+    <string name="save_data">Save Data</string>
+    <string name="enter_data">Enter Data</string>
+    <string name="save">Save</string>
+    <string name="load_data">Show Data</string>
+    <string name="show">Show</string>
+    <string name="saved_data">Save Data</string>
+</resources>
